@@ -1,0 +1,6 @@
+id=magiskapp_freezer
+name=Magisk App Freezer
+version=v1.4
+versionCode=10004
+author=HuskyDG
+description=Automatically freeze magisk app if denied app (any app in DenyList) is opened and restore magisk app when no denied app is running. Better do not allow these app to run in background
